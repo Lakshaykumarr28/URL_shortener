@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a6a544b-4969-433e-b21a-bb1d7cbcb81c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/urlshort/vercel.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlshort/vercel.json" beforeDir="false" afterPath="$PROJECT_DIR$/urlshort/vercel.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +131,7 @@
       <workItem from="1719850882950" duration="30000" />
       <workItem from="1719850936429" duration="1436000" />
       <workItem from="1719852402939" duration="2919000" />
-      <workItem from="1720089227524" duration="995000" />
+      <workItem from="1720089227524" duration="1142000" />
     </task>
     <servers />
   </component>
